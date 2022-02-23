@@ -1,0 +1,29 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnType": false,
+  "files.eol": "\n",
+  "cSpell.words": [
+    "Parens",
+    "Whitespaces",
+    "codebases",
+    "commonmark",
+    "docblock",
+    "editorconfig",
+    "esbenp",
+    "gitignore",
+    "pnpm",
+    "prettier's",
+    "prettiercode",
+    "prettierignore",
+    "prettierrc",
+    "promisify",
+    "stylelint",
+    "userdata",
+    "vsce"
+  ]
+}
